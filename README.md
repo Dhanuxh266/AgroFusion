@@ -1,4 +1,4 @@
-# AgroFusion 🌱
+# AgroFusion 
 ### AI-Powered Precision Farming Assistant
 
 **Live Website:** https://agrofusion-ai.vercel.app/
